@@ -15,4 +15,4 @@
 2. Enter:
     * username: neo4j
     * password: U1HpJgWOUHsEYhZkeixze6acMOvnOYAOfkv5PnuOt_U
-3. Make your first query with GraphQL Syntax. (For example: "MATCH (n1)-[r]->(n2) RETURN n1, r, n2")
+3. Make your first query with [CQL](https://neo4j.com/developer/cypher/). (For example: "MATCH (n1)-[r]->(n2) RETURN n1, r, n2")
