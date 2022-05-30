@@ -1,4 +1,4 @@
-# NAH User Guide
+# Gena User Guide
 
 ## What is Gena Knowledge Graph?
 **Gena Knowledge Graph** represents the relationships between Nutrition and Health and focuses especially on the association of Chemical/Nutrient/Biochemical entity group with Mental Health. There are 5 main modules in this project with the corresponding codes below:
