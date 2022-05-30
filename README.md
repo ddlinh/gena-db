@@ -15,4 +15,5 @@
 2. Enter:
     * username: neo4j
     * password: U1HpJgWOUHsEYhZkeixze6acMOvnOYAOfkv5PnuOt_U
-3. Make your first query with [CQL](https://neo4j.com/developer/cypher/). (For example: "MATCH (n1)-[r]->(n2) RETURN n1, r, n2")
+3. Make your first query with [CQL](https://neo4j.com/developer/cypher/). (For example: "MATCH (n1)-[r]->(n2) RETURN n1, r, n2 LIMIT 20")
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/60208884/171038060-be2d6670-54ed-4b92-9bb7-b0863c52c0a2.png">
