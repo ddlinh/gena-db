@@ -1,7 +1,7 @@
 # Gena User Guide
 
 ## How to access to Gena Knowledge Graph?
-1. Access to [Gena DB](https://browser.neo4j.io/?connectURL=neo4j%2Bs%3A%2F%2Fneo4j%8451226e.databases.neo4j.io%2F).
+1. Access to [Gena DB](https://browser.neo4j.io/?connectURL=neo4j%2Bs%3A%2F%2Fneo4j%408451226e.databases.neo4j.io%2F).
 2. Enter:
     * username: neo4j
     * password: RWY0rgJWWysmEbk808JCUv74jF-VrKBEfchJxy1vp5Q
