@@ -11,7 +11,8 @@
     * uri: neo4j+s://e5c905b4.databases.neo4j.io
     * username: public_user
     * password: password_public_user
-![image](https://github.com/ddlinh/gena-db/assets/60208884/3347a00f-5b93-49aa-aaa4-629cd2ae83ee)
+
+![image](https://github.com/ddlinh/gena-db/assets/60208884/e7d3c137-9479-4fb6-8843-3fe85234b018)
 
 4. Make your first query with [CQL](https://neo4j.com/developer/cypher/).
    * For example: "MATCH (n1:NUTRITION)-[r]->(n2:MENTAL_HEALTH) RETURN n1, r, n2 LIMIT 10")
