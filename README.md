@@ -8,9 +8,10 @@
 ![image](https://github.com/ddlinh/gena-db/assets/60208884/d2efe4a3-42fb-4229-a448-931cd232c58f)
 
 3. Enter:
-    * uri: neo4j+s://e5c905b4.databases.neo4j.io:7687
-    * username: public_user
-    * password: password_public_user
+(Wait 60 seconds before connecting using these details)
+NEO4J_URI=neo4j+s://e5c905b4.databases.neo4j.io
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=jpAl3O0n2X4Znvco3LtqM9fGoNamvGJH4PpdxPEJvlM
 
 ![image](https://github.com/ddlinh/gena-db/assets/60208884/e7d3c137-9479-4fb6-8843-3fe85234b018)
 
