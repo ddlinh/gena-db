@@ -9,11 +9,12 @@
 
 3. Enter:
 (Wait 60 seconds before connecting using these details)
-NEO4J_URI=neo4j+s://e5c905b4.databases.neo4j.io
-NEO4J_USERNAME=neo4j
-NEO4J_PASSWORD=jpAl3O0n2X4Znvco3LtqM9fGoNamvGJH4PpdxPEJvlM
+  * NEO4J_URI=neo4j+s://e5c905b4.databases.neo4j.io
+  * NEO4J_USERNAME=neo4j
+  * NEO4J_PASSWORD=jpAl3O0n2X4Znvco3LtqM9fGoNamvGJH4PpdxPEJvlM
 
-![image](https://github.com/ddlinh/gena-db/assets/60208884/e7d3c137-9479-4fb6-8843-3fe85234b018)
+![image](https://github.com/ddlinh/gena-db/assets/60208884/fbcc4f2f-1508-47f1-b388-0f3b4b6267af)
+
 
 4. Make your first query with [CQL](https://neo4j.com/developer/cypher/).
    * For example: "MATCH (n1:NUTRITION)-[r]->(n2:MENTAL_HEALTH) RETURN n1, r, n2 LIMIT 10")
