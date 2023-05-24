@@ -8,7 +8,7 @@
 ![image](https://github.com/ddlinh/gena-db/assets/60208884/d2efe4a3-42fb-4229-a448-931cd232c58f)
 
 3. Enter:
-    * uri: neo4j+s://e5c905b4.databases.neo4j.io
+    * uri: neo4j+s://e5c905b4.databases.neo4j.io:7687
     * username: public_user
     * password: password_public_user
 
