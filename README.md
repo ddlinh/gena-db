@@ -20,6 +20,10 @@
 
 This query aims to extract the 10 directed relations from Nutrition to Mental Health. You can easily custom the query to get the desired information as instructed in CQL.
 
+You can change the visualize mode by turning on the experimental visualization to get a more clear UI about the Nodes and Edges, as illustrated below.
+![image](https://github.com/ddlinh/gena-db/assets/60208884/443f6bd2-9c67-4beb-aff4-21ba2529abcf)
+
+
 
 ## How to access to Gena Knowledge Graph from Application?
 * **Python User**: https://neo4j.com/docs/aura/auradb/connecting-applications/python/
