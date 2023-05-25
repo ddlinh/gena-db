@@ -34,3 +34,9 @@ You can change the visualize mode by turning on the experimental visualization t
 * **Spring Boot User**: https://neo4j.com/docs/aura/auradb/connecting-applications/spring-boot/
 * **.NET User**: https://neo4j.com/docs/aura/auradb/connecting-applications/dotnet/
 * **GO User**: https://neo4j.com/docs/aura/auradb/connecting-applications/go/
+
+## How to construct a GENA Database in AuraDB?
+
+Let's move to the folder ./gena_data, there are 2 files which are:
+* **gena_data_final.zip**: a zip file contains **gena_data_final.csv**, which includes all nodes and edges of GENA DB. Apart from building knowledge graph, you can use this file for any specific purpose.
+* **GENA_KN.ipynb**: a jupyter notebook which includes codes to connect AuraDB via an identification (_uri_, _username_ and _password_), as well as to create nodes and edges from **gena_data_final.csv**
